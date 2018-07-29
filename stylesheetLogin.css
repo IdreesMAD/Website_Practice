@@ -1,0 +1,11 @@
+#Div2{
+	display:none;
+}
+.center_div{
+    margin: auto;
+    width:100%;
+}
+#error
+{
+	background-color: red;
+}
